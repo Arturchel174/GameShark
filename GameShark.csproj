@@ -41,10 +41,17 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="GameS.cs" />
+    <Compile Include="GameLogic\Collide.cs" />
+    <Compile Include="GameLogic\CollideAquamanShark.cs" />
+    <Compile Include="GameLogic\CollideAquamanPoint.cs" />
+    <Compile Include="GameObjects\Coin.cs" />
+    <Compile Include="GameObjects\Shark.cs" />
+    <Compile Include="GameObjects\BaseObject.cs" />
+    <Compile Include="Game\BaseGame.cs" />
+    <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Classes\Shark.cs" />
+    <Compile Include="GameObjects\Aquaman.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">

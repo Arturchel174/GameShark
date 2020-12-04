@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Artur Khamidulin/Downloads/GameRocket/GameRocket/GameRocket/Content/background.jpg</SourceFile>
-  <SourceTime>2020-11-09T15:31:15.9591293+05:00</SourceTime>
-  <DestFile>C:/Users/Artur Khamidulin/Downloads/GameRocket/GameRocket/GameRocket/Content/bin/Windows/background.xnb</DestFile>
-  <DestTime>2020-11-09T16:17:18.1284761+05:00</DestTime>
+  <SourceFile>C:/Users/Inal/Desktop/GameShark/GameShark/Content/background.jpg</SourceFile>
+  <SourceTime>2020-12-03T22:42:46.8371337+05:00</SourceTime>
+  <DestFile>C:/Users/Inal/Desktop/GameShark/GameShark/Content/bin/Windows/background.xnb</DestFile>
+  <DestTime>2020-12-03T23:15:41.6551142+05:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2018-09-24T02:55:52+05:00</ImporterTime>
+  <ImporterTime>2017-03-01T20:05:36+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2018-09-24T02:55:52+05:00</ProcessorTime>
+  <ProcessorTime>2017-03-01T20:05:36+05:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

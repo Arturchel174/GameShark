@@ -4,11 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Artur Khamidulin/Downloads/GameRocket/GameRocket/GameRocket/Content/background.jpg</File>
-    <File>C:/Users/Artur Khamidulin/Downloads/GameRocket/GameRocket/GameRocket/Content/shark.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/c3.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/c4.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/Font</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/FontGameOver</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/aquaman.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/background.jpg</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/shark_2.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/shark_1.png</File>
+    <File>C:/Users/Inal/Desktop/GameShark/GameShark/Content/point.png</File>
   </SourceFiles>
-  <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-  </DestFiles>
 </SourceFileCollection>
